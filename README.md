@@ -25,5 +25,5 @@ cp tree.py PATH_TO_SITE_PACKAGES/pattern3/text/
 ## Preprocess Data
 
 ```bash
-python preprocess.py
+python preprocess_data.py
 ```
